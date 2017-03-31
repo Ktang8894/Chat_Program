@@ -7,6 +7,8 @@ Directions:
 Start by running the Chat_Server. An IP address will be returned to the host.
 Then run the Chat_Client applications as needed, and enter the IP Address obtained by the host.
 
-Text Commands
+Text Commands:
+
 /exit - exits the applications
+
 /private <name> <message> - send a private message to <name>
