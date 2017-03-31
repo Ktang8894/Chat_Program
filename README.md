@@ -1,5 +1,6 @@
 Chat - A Chat Server used to host multiple clients for instant messaging
 Developed by Tan Le, Tsz Lam, and Kevin Tang
+
 April 2, 2016
 
 Directions:
